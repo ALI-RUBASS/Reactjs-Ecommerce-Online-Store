@@ -1,6 +1,3 @@
-<img src="https://gigadevden.com/github/ali%20rubass.jpg"/>
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
